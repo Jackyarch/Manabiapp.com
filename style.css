@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    boxing-sizing: border-box;
+}
+body{
+    background-image: url("school.jpg");
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
